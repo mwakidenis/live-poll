@@ -1,15 +1,42 @@
-# String Utils
+# Reverse String Utility in Java
 
-A small collection of Python utilities for working with strings.  
-This repository contains examples for beginners and intermediate users.
+A simple Java utility to reverse strings.  
+This repository demonstrates multiple ways to reverse strings in Java, including iterative and built-in methods.
 
-## Utilities
+## Table of Contents
 
-### 1. Reverse a String
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Examples](#examples)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-``python
-def reverse_string(s):
-    """Returns the reversed version of the input string"""
-    return s[::-1]
+---
 
-print(reverse_string("hello"))  # Output: olleh
+## Overview
+
+Reversing strings is a common programming task.  
+This project includes examples of:
+
+- Using `StringBuilder`
+- Iterative reversal with loops
+- Reversing with recursion
+
+---
+
+## Features
+
+- Reverse a string using different approaches
+- Easy-to-understand Java implementation
+- Can handle empty strings and null safely
+
+---
+
+## Usage
+
+Compile and run the Java file:
+
+```bash
+javac ReverseString.java
+java ReverseString
