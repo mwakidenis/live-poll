@@ -5,7 +5,7 @@ This repository contains examples for beginners and intermediate users.
 
 ## Utilities
 
-### 1. Reverse a String
+### Reverse a String
 
 ```python
 def reverse_string(s):
