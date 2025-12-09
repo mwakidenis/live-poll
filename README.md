@@ -1,4 +1,4 @@
-# Reverse String Utility in Java
+# Reverse a String in Java
 
 A simple Java utility to reverse strings.  
 This repository demonstrates multiple ways to reverse strings in Java, including iterative and built-in methods.
