@@ -7,7 +7,7 @@ This repository contains examples for beginners and intermediate users.
 
 ### 1. Reverse a String
 
-```python
+``python
 def reverse_string(s):
     """Returns the reversed version of the input string"""
     return s[::-1]
